@@ -5,9 +5,9 @@ URLPLEXPASS="https://plex.tv/api/downloads/1.json?channel=plexpass"
 DOWNLOADPATH="/tmp"
 LOGPATH="/tmp"
 LOGFILE="PMS_Updater.log"
-PMSPARENTPATH="/usr/local"
-PMSLIVEFOLDER="plexdata"
-PMSBAKFOLDER="plexdata.bak"
+PMSPARENTPATH="/usr/local/plexdata/Plex\ Media\ Server"
+PMSLIVEFOLDER=""
+PMSBAKFOLDER=""
 CERTFILE="/usr/local/share/certs/ca-root-nss.crt"
 AUTOUPDATE=0
 FORCEUPDATE=0
